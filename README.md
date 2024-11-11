@@ -17,7 +17,7 @@ README.md: Project documentation
 Setup & Usage
 Clone this repository:
 bash
-git clone https://github.com/yourusername/user-behavior-classification.git
+git clone https://github.com/debugtony/Phone-User-behaviour-analysis.git
 
 Run the analysis notebook or scripts in src to perform the classification.
 
